@@ -3,7 +3,7 @@
 - Make a select drop down with all the countries √
 - Display the country name, population, capital city of the country that is selected √
 - Persist the last country that was selected
-- Style
+- Style √
 
 Further: Add new functionality. eg
   - Show bordering countries and their statistics.
