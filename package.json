@@ -1,0 +1,15 @@
+{
+  "name": "ajax_lab",
+  "version": "1.0.0",
+  "description": "- Make a select drop down with all the countries, - Display the country name, population, capital city of the country that is selected. - Persist the last country that was selected - Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.6.1"
+  }
+}
